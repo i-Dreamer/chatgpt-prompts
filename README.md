@@ -8,10 +8,9 @@ ChatGPT是由OpenAI训练的一款大型语言模型，能够和你进行任何�
 
 # 🤖代码版指南
 
-如需编程请使用 [🧠ChatGPT 调教指南（英文代码版）](https://gitee.com/chengxuru/chatgpt-prompts/blob/master/prompt-en.json)
+如需编程请使用 [🧠ChatGPT 调教指南（英文代码版）](https://github.com/i-Dreamer/chatgpt-prompts/blob/main/prompt-en.json)
 
-如需编程请使用 [🧠ChatGPT 调教指南（中文代码版）](https://gitee.com/chengxuru/chatgpt-prompts/blob/master/prompt-zh.json)
-
+如需编程请使用 [🧠ChatGPT 调教指南（中文代码版）](https://github.com/i-Dreamer/chatgpt-prompts/blob/main/prompt-zh.json)
 # 🐱它能干什么? 
 
 包括但不限于：
